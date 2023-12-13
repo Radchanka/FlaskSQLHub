@@ -1,0 +1,12 @@
+[
+    {"name": "Math", "description": "Explore the world of mathematics, from algebra to calculus."},
+    {"name": "Biology", "description": "Dive into the study of life, from cells to ecosystems."},
+    {"name": "Physics", "description": "Discover the fundamental laws of the universe and how things work."},
+    {"name": "Chemistry", "description": "Uncover the secrets of matter, molecules, and chemical reactions."},
+    {"name": "History", "description": "Journey through the past and learn about historical events and figures."},
+    {"name": "Computer Science", "description": "Learn programming, algorithms, and computer technology."},
+    {"name": "Art", "description": "Express your creativity through various art forms and techniques."},
+    {"name": "Music", "description": "Explore the world of music, from theory to composition."},
+    {"name": "English", "description": "Enhance your language skills and explore literature and writing."},
+    {"name": "Geography", "description": "Study the Earth, its landscapes, and global phenomena."}
+]
